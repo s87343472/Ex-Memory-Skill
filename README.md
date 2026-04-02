@@ -1,4 +1,5 @@
-![前任.skill](./preview.svg)
+<img width="1200" height="670" alt="image" src="https://github.com/user-attachments/assets/a7bea4a8-0f3d-424c-a76d-a683c4693762" />
+
 
 # 前任.skill
 
