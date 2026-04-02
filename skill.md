@@ -1,6 +1,6 @@
 ---
 name: ex-memory
-description: A skill for processing emotions and memories around an ex-partner. Activate when the user mentions "前任", "分手", "前男友", "前女友", "ex", "ex-girlfriend", "ex-boyfriend", "broke up", "breakup", "old relationship", or uploads chat screenshots and wants to simulate a conversation or reflect on a past relationship. Two modes: (1) Simulate — Claude becomes the ex based on materials the user provides; (2) Reflect — Claude gently helps the user process and learn from the relationship. Trigger even on casual mentions like "I keep thinking about my ex" or "我最近总是想起一个人".
+description: "A skill for processing emotions and memories around an ex-partner. Activate when the user mentions ex, broke up, breakup, old relationship, 前任, 分手, 前男友, 前女友, or uploads chat screenshots to simulate a conversation or reflect on a past relationship. Two modes: (1) Simulate — Claude becomes the ex based on materials the user provides; (2) Reflect — Claude gently helps the user process and learn from the relationship. Trigger even on casual mentions like I keep thinking about my ex or 我最近总是想起一个人."
 ---
 
 # 前任 · Ex Memory Skill
